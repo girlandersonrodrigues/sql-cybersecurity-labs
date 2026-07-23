@@ -90,7 +90,7 @@ images/
 
 ---
 
-## Girlanderson Rodrigues
+## Author
 
 Girlanderson Rodrigues
 

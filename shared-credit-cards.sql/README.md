@@ -67,6 +67,10 @@ Further investigation is recommended by correlating:
 - Phone number
 - IP addresses
 - Login history
+
+  ## Query Result
+
+![Result](result.png)
 - Device fingerprints
 - Purchase history
 

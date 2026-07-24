@@ -56,7 +56,7 @@ ORDER BY
 
 > Insert a screenshot of the SQL query result here.
 
-![Result](result.png)
+![Result](resultspray.png)
 
 ---
 

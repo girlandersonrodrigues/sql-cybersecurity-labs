@@ -44,8 +44,8 @@ The goal is to simulate real-world investigations performed by SOC Analysts, Thr
 ## Repository Structure
 
 ```
-authentication-logs/
-firewall-analysis/
+data-quality/
+shared-credit-cards.sql/
 fraud-detection/
 joins/
 dashboards/

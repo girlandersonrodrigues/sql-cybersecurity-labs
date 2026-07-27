@@ -63,7 +63,7 @@ ORDER BY login_time DESC;
 
 > Insert the SQL query result screenshot below.
 
-![Result](result.png)
+![Result](result4.png)
 
 ---
 

@@ -61,7 +61,7 @@ ORDER BY login_time DESC;
 
 ## Query Result
 
-![Result](result4.png)
+![Result](result4)
 
 ---
 

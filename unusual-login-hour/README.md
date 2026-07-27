@@ -61,8 +61,6 @@ ORDER BY login_time DESC;
 
 ## Query Result
 
-> Insert the SQL query result screenshot below.
-
 ![Result](result4.png)
 
 ---

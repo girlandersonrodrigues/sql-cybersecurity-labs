@@ -122,6 +122,8 @@ Six successful authentication events were identified outside standard business h
 
 Although these events alone do not confirm unauthorized access, they represent behavioral anomalies that warrant further investigation. Correlating login time with IP reputation, user history, authentication method, device information, and post-login activities enables more accurate detection of potential account compromise while reducing false positives.
 
+---
+
 ## MITRE ATT&CK Mapping
 
 Possible techniques related to this investigation include:
